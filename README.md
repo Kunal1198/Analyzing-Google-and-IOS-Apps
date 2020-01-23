@@ -5,4 +5,4 @@ The aim of this project is to find mobile app profiles that are profitable for t
 Google Play Apps: 10,000+ samples of data.
 
 Apple Apps: 7000+ samples of data. 
- 
+  
